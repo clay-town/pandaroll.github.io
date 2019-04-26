@@ -1,0 +1,19 @@
+body {
+    background-image: url('https://images.unsplash.com/photo-1548354911-457c10eaf236?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1386&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#photoCred {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: white;
+    opacity: .8;
+}
+
+#photoCred a {
+    color:white;
+    text-decoration: none;
+    opacity: .9;
+}
